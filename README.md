@@ -1,3 +1,3 @@
 # UDP-Socket-Hello-World
 
-Based on http://gafferongames.com/networking-for-game-programmers/sending-and-receiving-packets/
+Bare bones UDP socket based on http://gafferongames.com/networking-for-game-programmers/sending-and-receiving-packets/
